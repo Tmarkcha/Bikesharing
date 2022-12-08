@@ -1,5 +1,7 @@
 # Bikesharing
 
+LINK TO DASHBOARD: https://public.tableau.com/app/profile/tim1971/viz/Module15_Challenge/Story1?publish=yes
+
 ## Overview of Analysis
 This analysis was conducted to better understand the clientele who utilize the Citibike network. 
 Based on the gathered data, the starting and ending locations for Citibike uses can be narrowed down to mostly being in the downtown core. This makes sense as bikes would allow for quicker and more direct transportation from start to end without having to rely on public transport and be prone to delays or overcrowded buses/subways. 
